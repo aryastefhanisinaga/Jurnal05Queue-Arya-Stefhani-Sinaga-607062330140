@@ -1,1 +1,3 @@
-# Jurnal05Queue-Arya-Stefhani-Sinaga-607062330140
+Nama :  Arya Stefhani Sinaga
+NIM : 607062330140
+Kelas  : D3IF-47-02
